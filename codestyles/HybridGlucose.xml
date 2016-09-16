@@ -1,0 +1,10 @@
+<code_scheme name="HybridGlucose">
+  <codeStyleSettings language="JAVA">
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
