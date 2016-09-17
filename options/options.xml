@@ -8,7 +8,7 @@
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="IJ_BASE_PACKAGE" value="pw.hybridglucose.homework" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
-    <property name="lastTip" value="3" />
+    <property name="lastTip" value="5" />
     <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
     <property name="KEYMAP" value="auto" />
     <property name="MemberChooser.showClasses" value="true" />

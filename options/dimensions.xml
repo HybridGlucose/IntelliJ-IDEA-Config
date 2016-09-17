@@ -19,6 +19,6 @@
     <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1920" height="296" />
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1920" height="296" />
     <size key="#Notifications.0.0.1920.1080" width="488" height="579" />
-    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" width="504" height="335" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" width="512" height="335" />
   </component>
 </application>
